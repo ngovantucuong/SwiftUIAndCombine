@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.0)
+  - NeoNetworking (1.0.9):
+    - Alamofire
+  - Swinject (2.6.0)
+
+DEPENDENCIES:
+  - NeoNetworking (from `https://bitbucket.org/nldanang/neonetworking.git`)
+  - Swinject (= 2.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Swinject
+
+EXTERNAL SOURCES:
+  NeoNetworking:
+    :git: https://bitbucket.org/nldanang/neonetworking.git
+
+CHECKOUT OPTIONS:
+  NeoNetworking:
+    :commit: 1033994096875e35ad09b573cf111a60291ff30f
+    :git: https://bitbucket.org/nldanang/neonetworking.git
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  NeoNetworking: 7562e6d8998a656475a920c08ee0f2375b1ea0ee
+  Swinject: 48a96cda93633cf2860697b4ce76ab5db9ebaca2
+
+PODFILE CHECKSUM: fde9d83a6911de06e626bcd53dc64f774a9fa5d3
+
+COCOAPODS: 1.10.0

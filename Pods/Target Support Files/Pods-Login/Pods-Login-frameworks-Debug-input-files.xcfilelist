@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Login/Pods-Login-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/NeoNetworking/NeoNetworking.framework
+${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework
